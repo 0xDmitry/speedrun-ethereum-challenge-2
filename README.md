@@ -1,3 +1,5 @@
+You can try it here: https://delicious-grandmother.surge.sh/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
